@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Husnain Raza
+- 👋 Hi, I’m Husnain Raza, student of NUST, currently pursuing SOFTWARE ENGINEERING PROGRAM(6th Semester)
 - 👀 I love developing DESKTOP Apps, Web-apps
-- 🌱 I’m interested in Security so currently learning Cryptography.
+- 🌱 I’m interested in Security therefore learning about Cryptography.
 - 📫 You can reach me through my email @hussnainrezamir72@gmail.com
 
 <!---
