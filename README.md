@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Husnain Raza
-- 👀 I’m interested in developing apps, Web-apps
-- 🌱 I’m currently learning Cryptography.
+- 👀 I love developing DESKTOP Apps, Web-apps
+- 🌱 I’m interested in Security so currently learning Cryptography.
 - 📫 You can reach me through my email @hussnainrezamir72@gmail.com
 
 <!---
